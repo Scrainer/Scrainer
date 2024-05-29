@@ -24,7 +24,7 @@ I am a passionate CS Engineer, driven by a curiosity for technology and a love f
 
 ## 🏆 Achievements
 
-- 🌟 Completed .Tech Domain's Break the Code Challenge - Finished the Challenge, being place amongst the Top 50 in my country.
+- 🌟 Completed .Tech Domain's Break the Code Challenge - Finished the Challenge, being placed amongst the Top 50 in my country.
 
 ## 🎖 Certifications
 
