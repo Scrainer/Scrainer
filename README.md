@@ -15,7 +15,7 @@ I am a passionate CS Engineer, driven by a curiosity for technology and a love f
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,nextjs,react,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,nextjs,react,ruby,unity,unreal)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
