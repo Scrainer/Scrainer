@@ -6,7 +6,7 @@ I am a passionate CS Engineer, driven by a curiosity for technology and a love f
 
 ## 🚀 About Me
 
-- 🔭 I'm currently looking for a full-time job while pursuing my Master.
+- 🔭 I'm currently working as a full-time App Developer while pursuing my Master.
 - 📷 I'm a photographer and graphic designer, creating content for my own media production studio [Outbound Studios](https://outbound-studios.com/).
 
 <!--
@@ -19,7 +19,7 @@ I am a passionate CS Engineer, driven by a curiosity for technology and a love f
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+- 🚀 Learning Full Stack Web and Mobile App Development
 - 💻 Exploring the world of Data Science and Game Development
 
 ## 🏆 Achievements
